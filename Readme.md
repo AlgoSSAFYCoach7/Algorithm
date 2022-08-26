@@ -13,6 +13,11 @@
 > Summer/Winter Coding(~2018) / [영어 끝말잇기](https://school.programmers.co.kr/learn/courses/30/lessons/12981) </p>
 > 월간 코드 챌린지 시즌1 / [삼각 달팽이](https://school.programmers.co.kr/learn/courses/30/lessons/68645)
 
+## 4주차
+> 월간 코드 챌린지 시즌3 / [빛의 경로 사이클](https://school.programmers.co.kr/learn/courses/30/lessons/86052) </p>
+> 월간 코드 챌린지 시즌2 / [괄호 회전하기](https://school.programmers.co.kr/learn/courses/30/lessons/76502) </p>
+> 완전탐색 / [피로도](https://school.programmers.co.kr/learn/courses/30/lessons/87946)
+
 
 ## 1주차 모의 테스트
 > 2020 KAKAO BLIND RECRUITMENT / [외벽 점검](https://school.programmers.co.kr/learn/courses/30/lessons/60062) </p>
@@ -23,3 +28,5 @@
 > Summer/Winter Coding(~2018) / [방문 길이](https://school.programmers.co.kr/learn/courses/30/lessons/49994?language=python3)
 
 ## 3주차 모의 테스트
+> 2022 KAKAO TECH INTERNSHIP / [두 큐 합 같게 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/118667) </p>
+> 2022 KAKAO TECH INTERNSHIP / [등산코스 정하기](https://school.programmers.co.kr/learn/courses/30/lessons/118669)
