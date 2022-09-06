@@ -1,3 +1,10 @@
+# 진행 방법
+* 평일
+    * 주차별 3문제 풀기
+    * 화요일에는 지난주 문제 풀이방법 공유하기
+* 주말
+    * 일요일 21시 모여서 모의 테스트 진행하기
+
 ## 1주차
 > 2021 KAKAO BLIND RECRUITMENT / [순위검색](https://school.programmers.co.kr/learn/courses/30/lessons/72412) </p>
 > 2019 KAKAO BLIND RECRUITMENT / [후보키](https://school.programmers.co.kr/learn/courses/30/lessons/42890) </p>
@@ -23,7 +30,10 @@
 > 2017 팁스타운 / [예상 대진표](https://school.programmers.co.kr/learn/courses/30/lessons/12985) </p>
 > 연습문제 / [2 x n 타일링](https://school.programmers.co.kr/learn/courses/30/lessons/12900)
 
-
+## 6주차
+> 2022 KAKAO BLIND RECRUITMENT / [k진수에서 소수 개수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/92335) </p>
+> 2022 KAKAO BLIND RECRUITMENT / [주차 요금 계산](https://school.programmers.co.kr/learn/courses/30/lessons/92341) </p>
+> 2022 KAKAO TECH INTERNSHIP / [코딩 테스트 공부](https://school.programmers.co.kr/learn/courses/30/lessons/118668)
 
 ## 1주차 모의 테스트
 > 2020 KAKAO BLIND RECRUITMENT / [외벽 점검](https://school.programmers.co.kr/learn/courses/30/lessons/60062) </p>
@@ -36,3 +46,10 @@
 ## 3주차 모의 테스트
 > 2022 KAKAO TECH INTERNSHIP / [두 큐 합 같게 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/118667) </p>
 > 2022 KAKAO TECH INTERNSHIP / [등산코스 정하기](https://school.programmers.co.kr/learn/courses/30/lessons/118669)
+
+## 4주차 모의 테스트
+> 2018 KAKAO BLIND RECRUITMENT / [[3차]방금그곡](https://school.programmers.co.kr/learn/courses/30/lessons/17683) </p>
+> 코딩테스트 연습 위클리 챌린지 / [교점에 별 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/87377)
+
+## 5주차 모의 테스트 
+기존에 못 푼 문제 다시 풀기
